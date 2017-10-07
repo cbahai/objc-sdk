@@ -1,0 +1,2 @@
+github "AFNetworking/AFNetworking" ~> 3.0
+github "cbahai/happy-dns-objc" ~> 0.3
