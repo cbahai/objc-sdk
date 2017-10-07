@@ -23,3 +23,4 @@ FOUNDATION_EXPORT const unsigned char QNVersionString[];
 #import <QN/QNUploadManager.h>
 #import <QN/QNUploadOption.h>
 #import <QN/QNUrlSafeBase64.h>
+#import <QN/QNRecorderDelegate.h>

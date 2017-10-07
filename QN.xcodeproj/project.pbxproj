@@ -47,7 +47,7 @@
 		E63F31181F88DA53001BBD8F /* QiniuSDK.h in Headers */ = {isa = PBXBuildFile; fileRef = E63F30E61F88DA53001BBD8F /* QiniuSDK.h */; };
 		E63F31191F88DA53001BBD8F /* QNFileRecorder.h in Headers */ = {isa = PBXBuildFile; fileRef = E63F30E81F88DA53001BBD8F /* QNFileRecorder.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E63F311A1F88DA53001BBD8F /* QNFileRecorder.m in Sources */ = {isa = PBXBuildFile; fileRef = E63F30E91F88DA53001BBD8F /* QNFileRecorder.m */; };
-		E63F311B1F88DA53001BBD8F /* QNRecorderDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = E63F30EA1F88DA53001BBD8F /* QNRecorderDelegate.h */; };
+		E63F311B1F88DA53001BBD8F /* QNRecorderDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = E63F30EA1F88DA53001BBD8F /* QNRecorderDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E63F311C1F88DA53001BBD8F /* QNConfiguration.h in Headers */ = {isa = PBXBuildFile; fileRef = E63F30EC1F88DA53001BBD8F /* QNConfiguration.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E63F311D1F88DA53001BBD8F /* QNConfiguration.m in Sources */ = {isa = PBXBuildFile; fileRef = E63F30ED1F88DA53001BBD8F /* QNConfiguration.m */; };
 		E63F311E1F88DA53001BBD8F /* QNFormUpload.h in Headers */ = {isa = PBXBuildFile; fileRef = E63F30EE1F88DA53001BBD8F /* QNFormUpload.h */; };
