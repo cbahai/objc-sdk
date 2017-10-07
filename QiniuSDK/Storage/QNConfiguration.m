@@ -7,8 +7,8 @@
 //
 
 #import "QNConfiguration.h"
-#import "HappyDNS.h"
-#import "QNNetworkInfo.h"
+@import HDNS;
+
 #import "QNResponseInfo.h"
 #import "QNSessionManager.h"
 #import "QNSystem.h"

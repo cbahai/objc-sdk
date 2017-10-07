@@ -6,9 +6,9 @@
 //  Copyright (c) 2014年 Qiniu. All rights reserved.
 //
 
-#import "AFNetworking.h"
+@import AFNetworking;
 
-#import "HappyDNS.h"
+@import HDNS;
 #import "QNAsyncRun.h"
 #import "QNConfiguration.h"
 #import "QNResponseInfo.h"
